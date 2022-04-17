@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <math.h>
 #pragma warning(disable : 4996)
+#pragma warning(disable : 6031)
 using namespace std;
 int main()
 
